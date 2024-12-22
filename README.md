@@ -41,10 +41,11 @@ I love exploring new AI tools.
 ### 📊 GitHub Stats:
 <div style="display: flex; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=isuryaprakashh&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isuryaprakashh&show_icons=true&theme=transparent" alt="GitHub Stats" width="50%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuryaprakashh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuryaprakashh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="50%" />
   
 </div>
 
 ![](https://komarev.com/ghpvc/?username=isuryaprakashh&style=flat-square)
+
