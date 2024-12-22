@@ -16,9 +16,16 @@ I love exploring new AI tools.
 ---
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuryaprakashh)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isurya2005@gmail.com)  
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/isuryaprakashh)  
+<div style="display: flex; gap: 20px;">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuryaprakashh)
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isurya2005@gmail.com)
+  
+  [![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/isuryaprakashh)
+
+</div>
+
 
 
 ---
