@@ -12,6 +12,8 @@ Full-stack development, using React.js, Spring Boot, and MySQL.
 ### ⚡ Fun fact:
 I love exploring new AI tools.
 
+### 📊 GitHub Stats:
+![SuryaPrakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuryaprakashh&show_icons=true&theme=transparent)
 ---
 
 # 🌐 Socials:
