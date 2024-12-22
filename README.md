@@ -41,3 +41,7 @@ I love exploring new AI tools.
 ### 📊 GitHub Stats:
 ![SuryaPrakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuryaprakashh&show_icons=true&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isuryaprakashh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
+
