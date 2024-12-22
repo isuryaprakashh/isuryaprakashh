@@ -8,12 +8,6 @@ Fullstack projects.
 ### 🌱 I’m currently learning:
 Full-stack development, using React.js, Spring Boot, and MySQL.
 
-### 💬 Ask me about:
-- **Programming Languages**: C, Java, Python  
-- **Web Development**: HTML, CSS, JavaScript  
-- **Frameworks**: Django, Flask  
-- **Databases**: SQLite3  
-- **Version Control**: Git, GitHub  
 
 ### ⚡ Fun fact:
 I love exploring new AI tools.
@@ -24,7 +18,6 @@ I love exploring new AI tools.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuryaprakashh)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isurya2005@gmail.com)  
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/isuryaprakashh)  
-
 
 
 ---
