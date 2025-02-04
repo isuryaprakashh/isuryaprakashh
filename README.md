@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-### 👯 I’m looking to collaborate on:
+### I’m looking to collaborate on:
 Fullstack projects.
 
 ### 🌱 I’m currently learning:
