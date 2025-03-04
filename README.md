@@ -1,20 +1,12 @@
-## Hi there 👋
+## Hi, I'm Surya 👋  
+I love building things and helping people.  
 
-# 💫 About Me:
-
-### I’m looking to collaborate on:
-Fullstack projects.
-
-### 🌱 I’m currently learning:
-Full-stack development, using React.js, Spring Boot, and MySQL.
-
-
-### ⚡ Fun fact:
-I love exploring new AI tools.
-
+# 💫 About  
+Aspiring full-stack developer passionate about building scalable applications, solving complex problems, and continuously learning new technologies, with hands-on experience in project development, teamwork, and leadership. Seeking opportunities to leverage technical and problem-solving skills in a dynamic environment.
 
 ---
 # 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-4169e1?logo=web&logoColor=white)](https://suryaprakash.rf.gd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuryaprakashh) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:isurya2005@gmail.com) 
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/isuryaprakashh)
@@ -32,6 +24,9 @@ I love exploring new AI tools.
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
@@ -46,5 +41,4 @@ I love exploring new AI tools.
   
 </div>
 
-![](https://komarev.com/ghpvc/?username=isuryaprakashh&style=flat-square)
-
+---
