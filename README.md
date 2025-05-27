@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framer and React.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://isuryaprakash.framer.website/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://suryaprakashinukurthi.vercel.app)
 
 - 📫 How to reach me **isurya2005@gmail.com**
 
