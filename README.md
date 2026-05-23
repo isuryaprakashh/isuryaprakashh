@@ -2,6 +2,10 @@
 
 **Full Stack Developer & Designer from India**
 
+## 💡 Inspiration
+
+> "Ideas don't come fully formed. They evolve once you start building them." — Mark Zuckerberg
+
 ## 🔗 Links
 
 - **Portfolio:** [suryaprakash.me](https://suryaprakash.me)
